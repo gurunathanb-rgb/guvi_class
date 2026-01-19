@@ -1,5 +1,5 @@
 Gurunathan Balakrishnan
 GUVI - FSD student
 Current Location :  Sriperumbdur
-Axles Indai Limited
+Axles India Limited
 Senior Manager - IT
