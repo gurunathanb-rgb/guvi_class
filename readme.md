@@ -26,5 +26,8 @@ Open the App and register using your mobile or email ID with Address
 - Select the UPI and Bank Details
 
 ## How to track
--Once Payment completed sucessfully your order generated
--You can view and track the order 
+- Once Payment completed sucessfully your order generated
+- You can view and track the order 
+
+## Contact for Queries
+- Do you have any Queries , Please contact xxx@gmail.com
