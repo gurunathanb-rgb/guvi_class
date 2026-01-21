@@ -31,3 +31,4 @@ Open the App and register using your mobile or email ID with Address
 
 ## Contact for Queries
 - Do you have any Queries , Please contact xxx@gmail.com
+- If you have further doubts please contact 1122334444 for support
