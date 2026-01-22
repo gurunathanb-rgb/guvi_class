@@ -36,3 +36,4 @@ Open the App and register using your mobile or email ID with Address
 ## Give your Feedback
 - In bootom of the screen there is feedback 
 - Share your experiance in it which will give to service better
+- Thanks for using our App for purchasing
